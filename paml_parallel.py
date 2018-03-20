@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 # run multi-threaded codeml
 # run script from directory with .ctl files
