@@ -5,7 +5,7 @@
 # usage: python paml_parallel.py <number of threads>
 
 
-import os, glob
+import sys, os, glob
 import multiprocessing
 import shlex
 
